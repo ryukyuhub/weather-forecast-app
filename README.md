@@ -1,8 +1,6 @@
-# Vue 3 + Vite
-
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+# 天気予報アプリ
+- 生成AIの Claude Code を利用して、10分ほどで作った簡易的なWEBアプリ
+- 気象庁 API を使用しています
 
 ## 始め方
 - WEBサーバー内にプロジェクトがある場合は`npm run build`
